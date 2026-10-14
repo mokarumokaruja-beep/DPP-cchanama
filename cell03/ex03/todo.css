@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#new {
+    font-size: 18px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+
+#ft_list {
+    margin-top: 20px;
+    width: 300px;
+}
+
+#ft_list div {
+    padding: 10px;
+    margin-bottom: 8px;
+    background-color: #f2f2f2;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+}
+
+#ft_list div:hover {
+    background-color: #ffdddd;
+}
