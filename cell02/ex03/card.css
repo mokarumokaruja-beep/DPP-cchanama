@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.title {
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+table {
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+}
+
+td {
+    border: none;
+    padding: 8px 0;
+    text-align: center;
+}
+
+.photo-cell,
+.button-cell {
+    padding: 0;
+}
+
+.photo {
+    display: block;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.login {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.desc {
+    color: gray;
+}
+
+.social img {
+    width: 24px;
+    height: 24px;
+    margin: 0 4px;
+}
+
+.contact {
+    display: block;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.contact:hover {
+    background-color: #555555;
+}
