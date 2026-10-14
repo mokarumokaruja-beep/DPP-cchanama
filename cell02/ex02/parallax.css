@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first {
+    background-image: url("https://i.redd.it/rspjizola49f1.jpg");
+}
+
+.second {
+    background-image: url("https://us-fbcloud.net/wb/data/1698/1698971-img.xy2h8e.151px.webp");
+}
+
+.parallax p {
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+}
+
+.black {
+    height: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.black p {
+    color: white;
+}
