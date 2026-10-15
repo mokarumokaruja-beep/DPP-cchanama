@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+}
+
+#colorButton {
+    font-size: 20px;
+    padding: 4px 12px;
+    cursor: pointer;
+}

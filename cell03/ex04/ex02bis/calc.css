@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input, select {
+    font-size: 18px;
+    padding: 5px;
+}
+
+#button {
+    cursor: pointer;
+}
